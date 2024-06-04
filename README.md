@@ -16,7 +16,7 @@ This course was held at the [School of Oriental and African Studies (SOAS)](http
 The goal of the course is to fast-track beginners into programming while providing varied context on possible projects 
 as well as the logic skills required. 
 Unlike later classes,
-it merely seeks to introduce students to programming concepts and how to code simple stuff amd solve
+it merely seeks to introduce students to programming concepts and how to code simple stuff and solve
 common daily problems (e.g. email personalization).
 
 ### **_Table of Contents_**
