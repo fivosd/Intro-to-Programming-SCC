@@ -1,0 +1,3 @@
+I have used some unknown to you (probably) expressions such as -> len() <-
+If you do not understand a component of the code, please look it up.
+These functions are rather simple and will only be a 1-minute read for you to get why they are there.
